@@ -9,5 +9,8 @@
         <module name="SummerTLMS" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SummerTLMS" target="19" />
+    </bytecodeTargetLevel>
   </component>
 </project>
