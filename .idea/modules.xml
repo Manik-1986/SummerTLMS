@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SummerTLMS.iml" filepath="$PROJECT_DIR$/.idea/SummerTLMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SummerTLMS.iml" filepath="$PROJECT_DIR$/SummerTLMS.iml" />
     </modules>
   </component>
 </project>
